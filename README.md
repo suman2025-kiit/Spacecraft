@@ -1,13 +1,3 @@
-# Spacecraft#
-pip install -r requirements.txt
-
-
-python run_all.py
-
-
-
-python -m unittest discover -s tests -v
-
 
 # Spacecraft-Fraud FPGA Validation Code
 
@@ -160,4 +150,11 @@ This repository is a reproducible validation package. The included synthetic tel
 ##The full coding of this research work is attached herewith in 
 "**spacecraft-fraud-fpga-github-clean.zip**" file ##
 ```
+<img width="2029" height="876" alt="zcu104_spacecraft_hardware_arch" src="https://github.com/user-attachments/assets/69501c74-6145-4b4a-87b1-ced599f4dd53" />
+<img width="3908" height="2151" alt="figure6 (1)" src="https://github.com/user-attachments/assets/4155315d-cca0-40e8-939f-aefa5b2e0ca2" />
+<img width="3901" height="2158" alt="figure7 (1)" src="https://github.com/user-attachments/assets/c249ccff-5e05-414e-830d-af3117e616e7" />
+<img width="2845" height="2085" alt="figure8 (1)" src="https://github.com/user-attachments/assets/0111e69a-296d-40eb-9bf2-57e3a8c08853" />
+
+
+
 
