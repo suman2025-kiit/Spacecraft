@@ -157,16 +157,7 @@ To use a real CSV file, replace the synthetic generator in `data.py` or call `lo
 
 This repository is a reproducible validation package. The included synthetic telemetry, FPGA testbench, and logs demonstrate the intended implementation flow. For measured hardware claims, run the RTL/HLS design on the actual AMD-Xilinx ZCU104 board and report board-level measurements separately.
 
-## Citation
-
-If you use this code, cite the associated manuscript:
-
-```bibtex
-@article{majumder2026spacecraftfraud,
-  title={Spacecraft-Fraud: Secure Onboard Federated Telemetry Mining for Spacecraft Fault Detection and Subsystem Localization},
-  author={Majumder, Suman},
-  journal={Manuscript under review},
-  year={2026}
-}
+##The full coding of this research work is attached herewith in 
+"**spacecraft-fraud-fpga-github-clean.zip**" file ##
 ```
 
